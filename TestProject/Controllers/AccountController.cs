@@ -11,8 +11,6 @@ namespace TestProject.Controllers
 {
     public class AccountController : Controller
     {
-
-        //
         // GET: /Account/LogOn
 
         public ActionResult LogOn()
